@@ -14,6 +14,7 @@
 		D9069DD7230709B2008BE435 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9069DD5230709B2008BE435 /* LaunchScreen.storyboard */; };
 		D9DAFCC82312285B00A87632 /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DAFCC72312285B00A87632 /* ChecklistItem.swift */; };
 		D9DAFCCA2312310700A87632 /* TodoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DAFCC92312310700A87632 /* TodoList.swift */; };
+		D9DAFCCC231370D700A87632 /* AddItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DAFCCB231370D700A87632 /* AddItemTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D9069DD8230709B2008BE435 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9DAFCC72312285B00A87632 /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
 		D9DAFCC92312310700A87632 /* TodoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoList.swift; sourceTree = "<group>"; };
+		D9DAFCCB231370D700A87632 /* AddItemTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D9DAFCC92312310700A87632 /* TodoList.swift */,
 				D9DAFCC72312285B00A87632 /* ChecklistItem.swift */,
 				D9069DD0230709B0008BE435 /* Main.storyboard */,
+				D9DAFCCB231370D700A87632 /* AddItemTableViewController.swift */,
 				D9069DD3230709B2008BE435 /* Assets.xcassets */,
 				D9069DD5230709B2008BE435 /* LaunchScreen.storyboard */,
 				D9069DD8230709B2008BE435 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9069DCF230709B0008BE435 /* ChecklistViewController.swift in Sources */,
+				D9DAFCCC231370D700A87632 /* AddItemTableViewController.swift in Sources */,
 				D9DAFCC82312285B00A87632 /* ChecklistItem.swift in Sources */,
 				D9069DCD230709B0008BE435 /* AppDelegate.swift in Sources */,
 				D9DAFCCA2312310700A87632 /* TodoList.swift in Sources */,
